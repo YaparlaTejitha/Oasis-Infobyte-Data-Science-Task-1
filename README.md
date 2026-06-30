@@ -1,4 +1,4 @@
-#Oasis-Infobyte-Data-Science-Task-2
+# Oasis-Infobyte-Data-Science-Task-1
 # Task 1: Iris Flower Classification
 *🎥 Video Demonstration Posted on LinkedIn as part of the Oasis Infobyte Internship*
 
